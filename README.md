@@ -9,7 +9,7 @@ of the same size, the plants were planted and were treated the same way
 except for the fertilizer. One of the areas was considered as control area
 and the others did receive different treatments of the fertilizers. The
 progress of the plant’s budding was measured with three different criterion
-including FG%, GI and CUG and repeated 10 times. The final step was
+including FG%, GI and CUG and the measurements were repeated 10 times. The final step was
 analyzing the data to study the effect of the fertilizers on the budding of the
 plants.
 
