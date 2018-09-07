@@ -1,3 +1,5 @@
+% Licensed under the Apache License, Version 2.0
+
 % Produce all the possible combinations of fertilizer provided the same amount of each is used
 
 % results columns: FG%, GI, CUG, Score
