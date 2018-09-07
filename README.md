@@ -16,7 +16,7 @@ plants.
 ## Network Architecture
 The network chosen for this task is the Multi-layer Perceptron (MLP) variant
 of the Shallow Feedforward Neural Network.
-Five different model were created with different configurations, Levenberg-Marquardt 
+Five different models were created with different configurations, Levenberg-Marquardt 
 Algorithm (LMA) was used to train the network and adjust the weights.
 Number of hidden layer neurons of all the five networks: 12, 12, 12, 12, 28
 
@@ -24,9 +24,10 @@ The models schemas are as follows:
 <img src="models-schemas.png" alt="Models Schemas" height="250" >
 
 ## Note
-In order for the Scripts to function, the input and output data must be present in the MATLAB workspace.
+1. In order for the Scripts to function, the input and output data must be present in the MATLAB workspace.
 To do so either drag and drop the data or use the command 'load' (e.g. load('Model 1 Data.mat')).
-
+2. The networks can be fine-tuned by changing the configuration, its an easy job using the scripts.
+3. More data can probably produce better results.
 
 Hamed Rezayat, August 2018
 Licensed under the Apache License, Version 2.0
