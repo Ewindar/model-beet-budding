@@ -1,0 +1,2 @@
+In order for the Script to work, the input and output data must be present in the MATLAB workspace.
+The data can be loaded either via drag and drop or by using the command load (e.g. load('Model 1 Data.mat')).
