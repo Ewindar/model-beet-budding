@@ -1,3 +1,5 @@
+% Licensed under the Apache License, Version 2.0
+
 function PlotResults(t,y,name)
 
     figure;
